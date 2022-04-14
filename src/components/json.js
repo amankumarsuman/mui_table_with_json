@@ -1,0 +1,73 @@
+var datas = [
+  {
+    testcode: "0082",
+    name: "* JWH 018 5-Hydroxypentyl",
+    abbrivation: "JW01 ",
+    units: "ng/mL     ",
+    refcode: "            ",
+  },
+  {
+    testcode: "0084",
+    name: "* JWH 200",
+    abbrivation: "JWH20",
+    units: "NG/ML     ",
+    refcode: "            ",
+  },
+  {
+    testcode: "0070",
+    name: "* Phenobarbital",
+    abbrivation: "PHENB",
+    units: "ng/mL     ",
+    refcode: "            ",
+  },
+  {
+    testcode: "17HP",
+    name: "17 Hydroxyprogesterone",
+    abbrivation: "17HP ",
+    units: "ng/dL     ",
+    refcode: "            ",
+  },
+  {
+    testcode: "1882",
+    name: "1882 TESTCODE TESTING",
+    abbrivation: "AB182",
+    units: "1         ",
+    refcode: "REF123LAB   ",
+  },
+  {
+    testcode: "0054",
+    name: "2-HydroxyethylFlurazepam",
+    abbrivation: "HYFLU",
+    units: "          ",
+    refcode: "            ",
+  },
+  {
+    testcode: "V327",
+    name: "2-Hydroxyethylflurazepam",
+    abbrivation: "V2-H ",
+    units: "ng/mL     ",
+    refcode: "            ",
+  },
+  {
+    testcode: "VD2 ",
+    name: "25-Hydroxy Vit D2",
+    abbrivation: "VITD2",
+    units: "          ",
+    refcode: "            ",
+  },
+  {
+    testcode: "V371",
+    name: "251-NBOMEK",
+    abbrivation: "V251N",
+    units: "ng/mL     ",
+    refcode: "            ",
+  },
+  {
+    testcode: "H371",
+    name: "25I-NBOMe",
+    abbrivation: "251N ",
+    units: "ng/mL     ",
+    refcode: "            ",
+  },
+];
+export default datas;
